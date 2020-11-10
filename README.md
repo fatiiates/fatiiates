@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Fatih</h1>
+<h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Fatih</h1>
 <h3 align="center">A Computer Engineering student of Bursa Technical University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiiates&label=Profile%20views&color=0e75b6&style=flat" alt="fatiiates" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, Firebase and Python**
 
-- 💬 Ask me about **C#, TypeScript, Telegram Bots,**
+- 💬 Ask me about **All programming languages, Telegram Bots, Heroku, Firebase...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
