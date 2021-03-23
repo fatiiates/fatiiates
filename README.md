@@ -7,7 +7,7 @@
 
 <p align="center" >
    🔭 I’m currently working on <strong>special Educational Institution project</strong><br><br>
-   🌱 I’m currently learning <strong>TypeScript, Next.js, Firebase and Python</strong><br><br>
+   🌱 I’m currently learning <strong>Kubernetes, Go, GCP and Ubuntu </strong><br><br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
