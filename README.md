@@ -8,7 +8,6 @@
 <p align="center" >
    🔭 I’m currently working on <strong>special Educational Institution project</strong><br><br>
    🌱 I’m currently learning <strong>TypeScript, Next.js, Firebase and Python</strong><br><br>
-   💬 Ask me about <strong>All programming languages, Telegram Bots, Heroku, Firebase...</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
