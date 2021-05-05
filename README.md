@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatiiates&label=Profile%20views&color=0e75b6&style=flat" alt="fatiiates" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatiiates" alt="fatiiates" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fatiiates" alt="fatiiates" /> </p>
 
 <p align="center" >
    🔭 I’m currently working on <strong>special Educational Institution project</strong><br><br>
