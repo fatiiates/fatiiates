@@ -1,5 +1,6 @@
 <h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Fatih</h1>
 <h3 align="center">A Computer Engineering student of Bursa Technical University(2019-2022), CGPA: 3,8</h3>
+<h3 align="center">GSoC '21 @ CNCF</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatiiates&label=Profile%20views&color=0e75b6&style=flat" alt="fatiiates" /> </p>
 
