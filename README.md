@@ -2,13 +2,8 @@
 <h3 align="center">BSc in Computer Engineering @ Bursa Technical University(2019-2022), CGPA: 3,8</h3>
 <h3 align="center">GSoC '21 @ CNCF</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fatiiates&label=Profile%20views&color=0e75b6&style=flat" alt="fatiiates" /> </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fatiiates" alt="fatiiates" /> </p>
-
 <p align="center" >
-   🔭 I’m currently working on <strong>special Educational Institution project</strong><br><br>
-   🌱 I’m currently learning <strong>Kubernetes, Go, GCP and Ubuntu </strong><br><br>
+   🌱 I’m currently learning <strong>Kubernetes, Go, GCP and Ubuntu </strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
