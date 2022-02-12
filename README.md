@@ -3,7 +3,7 @@
 <h3 align="center">GSoC '21 @ <a href="https://www.cncf.io/" target="_blank">CNCF</a></h3>
 
 <h3 align="center" >
-   Software Engineer Intern @ <a href="https://www.bursa.bel.tr/" target="_blank">BBB</a>
+   Software Engineer Scholarship @ <a href="https://www.tubitak.gov.tr/en" target="_blank">TUBITAK</a>
 </h3>
 
 <h3 align="center">Some anchors</h3>
