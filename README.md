@@ -7,6 +7,6 @@
 <p align="center">
    <a href="https://linkedin.com/in/fatiiates" title="fatiiates" target="_blank">LinkedIn</a>&emsp;
    <a href="mailto:fatiiates@gmail.com" title="fatiiates@gmail.com" target="_blank">Gmail</a>&emsp;
-   <a href="https://fatiiates.com" title="fatiiates" target="_blank">Portfolio</a
+   <a href="https://fatiiates.com" title="fatiiates" target="_blank">Portfolio</a>
 </p>
 
